@@ -1,4 +1,5 @@
 {
+  "name": "enji.dev",
   "private": true,
   "scripts": {
     "build": "turbo run build",
